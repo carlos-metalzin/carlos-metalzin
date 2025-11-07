@@ -1,8 +1,7 @@
 ### Hey!! I'm Carlos, Welcome 👋
 
-- 🔭 Cursando Engenharia Elétrica 
+- 🔭 Engenharia Elétrica 
 - 🖥️ Python... 
-- 😄 Pronouns: ele/dele 
 
  <div>
   <a href="https://github.com/carlos-metalzin">
