@@ -1,7 +1,7 @@
 ### Hey!! I'm Carlos, Welcome 👋
 
 - 🔭 Engenharia Elétrica 
-- 🖥️ Python... 
+- 🖥️ Python, Matlab, Simulink, C++ 
 
  <div>
   <a href="https://github.com/carlos-metalzin">
